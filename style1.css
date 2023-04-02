@@ -1,5 +1,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
 .topnav {
     background-color: #333;
     overflow: hidden;
